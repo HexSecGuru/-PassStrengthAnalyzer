@@ -80,16 +80,14 @@ To run the Password Strength Checker on your local machine, follow these steps:
 ## 🖼️ Screenshots
 
 ### Password Analyzer
-
-![Password Analyzer Screenshot](https://via.placeholder.com/800x400?text=Password+Analyzer)
+![Password Analyzer Screenshot](Screenshots/password_analyzer.png)
 
 ### Generated Secure Password
-
-![Generated Password Screenshot](https://via.placeholder.com/800x400?text=Generated+Password)
+![Generated Password Screenshot](Screenshots/generated_password.png)
 
 ### Security Results Display
+![Security Results Screenshot](Screenshots/security_results.png)
 
-![Security Results Screenshot](https://via.placeholder.com/800x400?text=Security+Results)
 
 ## 🔧 Future Features (Coming Soon)
 
