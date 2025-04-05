@@ -124,6 +124,5 @@ Feel free to open issues or submit feature requests if you have any suggestions!
 ## 🔗 Connect
 
 - **GitHub**: [@HexSec](https://github.com/HexSec)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitter](https://twitter.com/yourtwitter)
+
 
